@@ -2,7 +2,7 @@
 - 👀 I’m interested in .netcore
 - 🌱 I’m currently learning .netcore
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 my emailid is svsolanki9095@gmail.com
 
 <!---
 Sachin9095/Sachin9095 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
